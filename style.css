@@ -1,0 +1,36 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    background-color: rgba(236, 224, 224, 0.5);
+}
+body{
+    background: url("fondo.webp");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: rgb(52, 10, 203);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+center{
+    background: rgba(122, 130, 137, 0.482);
+}
+h3{
+    color: rgb(162, 32, 140);
+    font-size: 35px;
+}
